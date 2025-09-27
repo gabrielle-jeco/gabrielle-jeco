@@ -21,5 +21,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielle.christiando@binus.ad.id)  
 
 ---
-⭐️ From [eseusername](https://github.com/gabrielle-jeco)
+⭐️ From [Gabrielle Jeconiah](https://github.com/gabrielle-jeco)
 
