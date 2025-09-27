@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 - 🌱 Currently learning: Cloud Computing & Full-Stack Development  
-- 🎯 Interested in: System design, Cloud infrastructure, and scalable applications  
+- 🎯 Interested in: System design, cloud infrastructure, and scalable applications  
 - ⚡ Fun fact: Still a beginner, but always curious to explore more!  
 
 ---
@@ -26,7 +26,7 @@
 ## 🛠️ Skills & Tools
 
 ### Programming & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
 
 ### Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
