@@ -13,23 +13,20 @@
 ---
 
 ## 📊 GitHub Stats
-![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielle-jeco&show_icons=true&theme=default)
+![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielle-jeco&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-jeco&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielle-jeco&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielle-jeco&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielle-jeco&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
----
-
-## 📂 Featured Projects
-- 🔗 [My Portfolio Website](https://github.com/gabrielle-jeco/portfolio)  
-- 🔗 [Cloud Deployment Demo](https://github.com/gabrielle-jeco/cloud-demo)  
 
 ---
 
