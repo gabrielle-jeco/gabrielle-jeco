@@ -1,10 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Gabrielle Jeconiah</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;Future+Full-Stack+Engineer;Building+Scalable+Applications;Always+Learning+New+Things+🚀" />
-</p>
+<h3 align="center">Computer Science Student • Cloud Computing Enthusiast • Future Full-Stack & Cloud Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/gabrielle-jeco">
@@ -14,14 +11,22 @@
 
 ---
 
+<!-- ================= TYPING INTRO ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;Full-Stack+Developer+in+Progress;Building+Scalable+Applications;Always+Learning+Something+New+🚀" />
+</p>
+
+---
+
 <!-- ================= ABOUT ================= -->
 
 ## 🧭 About Me
 
 * 🎓 Computer Science Student at **BINUS University**
-* ☁️ Learning **Cloud Computing & Full-Stack Development**
-* 🏗️ Interested in **System Design, Scalable Systems, and Cloud Infrastructure**
-* ⚡ Fun fact: *Still a beginner — but learning fast and consistently.*
+* ☁️ Currently learning **Cloud Computing, DevOps, and Full-Stack Development**
+* 🏗️ Interested in **System Design, Scalable Apps, and Cloud Infrastructure**
+* ⚡ Fun fact: *Still a beginner — but learning dangerously fast.*
 
 ---
 
@@ -54,16 +59,22 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat\&logo=vue.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 
 ### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Deployment
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat\&logo=terraform\&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+![Git%20Flow](https://img.shields.io/badge/Git%20Flow-F05032?style=flat\&logo=git\&logoColor=white)
 
 ---
 
@@ -71,19 +82,19 @@
 
 ## 🚀 Featured Projects
 
-| Project                      | Description                                              | Tech                   |
-| ---------------------------- | -------------------------------------------------------- | ---------------------- |
-| **Personal Performance App** | Employee performance monitoring dashboard with analytics | Laravel, React, Docker |
-| **More coming soon…**        | Building cloud-ready full-stack applications             | ☁️                     |
+| Project                                   | Description                                                                | Tech                               |
+| ----------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------- |
+| **Personal Performance App**              | Employee performance monitoring dashboard with analytics & role management | Laravel, React, PostgreSQL, Docker |
+| **Cloud-Ready Full-Stack Apps (ongoing)** | Scalable applications prepared for CI/CD & Kubernetes deployment           | GCP, Terraform, GitHub Actions     |
 
 ---
 
-<!-- ================= SNAKE ================= -->
+<!-- ================= SNAKE CONTRIBUTION ================= -->
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielle-jeco/gabrielle-jeco/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gabrielle-jeco/gabrielle-jeco/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
